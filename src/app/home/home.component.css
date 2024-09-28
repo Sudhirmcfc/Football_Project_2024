@@ -1,0 +1,11 @@
+
+.container{
+    max-width: max-content;
+}
+
+.d-block{
+    height: 800px;
+    width: max-content;
+}
+
+
